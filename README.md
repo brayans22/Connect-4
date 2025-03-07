@@ -46,7 +46,3 @@ java Connect4
 
 
 If you'd like to contribute, feel free to fork the repository and submit a pull request. I’m open to suggestions and improvements, especially if you have ideas to make the game more fun or efficient.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).

@@ -1,6 +1,6 @@
 package brayan.uoc.game.connect;
 
-public class PAC1Ex3 {
+public class ConnectGame {
 
     // CONSTANTS
     public static final int MAX_ROWS = 6;

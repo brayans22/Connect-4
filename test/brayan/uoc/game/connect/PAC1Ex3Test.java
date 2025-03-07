@@ -8,7 +8,7 @@ import java.io.PrintStream;
 import static org.junit.jupiter.api.Assertions.*;
 
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
-public class ConnectGameTest {
+public class PAC1Ex3Test {
 
     private ByteArrayOutputStream outContent;
     private final PrintStream originalOut = System.out;

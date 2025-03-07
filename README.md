@@ -20,7 +20,7 @@ Connect 4 is a classic two-player strategy game where the goal is to align four 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/connect-4.git
+git clone [https://github.com/brayans22/Connect-4]
 ```
 
 2. Navigate into the project directory:

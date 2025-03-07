@@ -44,14 +44,6 @@ java Connect4
 4. The game will notify when a player wins or if the board is full (resulting in a tie).
 5. After a game ends, the players can choose to restart.
 
-## How It Works
-
-- The game is played in the console.
-- Players input the column number where they want to drop their disc (numbered from 1 to 7).
-- The program checks for the winning condition after each move.
-- The game handles invalid inputs gracefully, ensuring players are prompted to choose a valid move.
-
-## Contributing
 
 If you'd like to contribute, feel free to fork the repository and submit a pull request. I’m open to suggestions and improvements, especially if you have ideas to make the game more fun or efficient.
 
